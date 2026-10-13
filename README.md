@@ -43,7 +43,21 @@ I work at the intersection of **materials science** and **machine learning**, co
 
 ### 📊 GitHub stats
 
-<p align="center"> <img src="https://raw.githubusercontent.com/akwarii/akwarii/main/github-metrics.svg" alt="GitHub metrics"/> </p> <p align="center"> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=akwarii&layout=compact&hide_border=true&langs_count=6&theme=dark_github" alt="Top languages" height="150"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akwarii&theme=github_dark&utcOffset=1" alt="Productive time" height="150"/> </p>
+<table align="center">
+  <tr>
+    <td rowspan="2" valign="top">
+      <img src="https://raw.githubusercontent.com/akwarii/akwarii/main/github-metrics.svg" alt="GitHub metrics" width="480"/>
+    </td>
+    <td>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=akwarii&layout=compact&hide_border=true&langs_count=6&theme=dark_github" alt="Top languages" width="380"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akwarii&theme=github_dark&utcOffset=1" alt="Productive time" width="380"/>
+    </td>
+  </tr>
+</table>
 
 ### 📫 Get in touch
 
