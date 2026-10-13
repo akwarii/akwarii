@@ -47,7 +47,7 @@ I work at the intersection of **materials science** and **machine learning**, co
 
 ### 📫 Get in touch
 
-- ✉️ Email: [gael.huynh@gmail.com](mailto:gael.huynh@gmail.com)
+- ✉️ Email: [gael.huynh@uclouvain.be](mailto:gael.huynh@uclouvain.be)
 - 🎓 Google Scholar: [Gaël Huynh](https://scholar.google.com/citations?user=YEqart0AAAAJ&hl)
 - 🆔 ORCID: [0009-0003-1496-7685](https://orcid.org/0009-0003-1496-7685)
 - 💼 LinkedIn: [gael-huynh](https://linkedin.com/in/gael-huynh)
