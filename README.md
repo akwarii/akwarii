@@ -9,6 +9,8 @@
 
 I work at the intersection of **materials science** and **machine learning**, combining first-principles calculations, atomistic simulation and ML models to explore and understand materials.
 
+🏛️ I'm currently a postdoc in the group of **Gian-Marco Rignanese** at UCLouvain, working on the **ERC project GEMPROMISE**.
+
 - 🤖 Machine-learned interatomic potentials and graph neural networks for materials
 - 🧱 Structure generation, analysis and materials databases
 - ⚙️ Automated high-throughput simulation workflows
@@ -17,36 +19,27 @@ I work at the intersection of **materials science** and **machine learning**, co
 
 | Project | Description |
 |---|---|
-| [**asc**](https://github.com/akwarii/asc) | Atomic Structure Classification: a framework to develop and benchmark graph neural networks for atomistic simulations, with an [OVITO extension](https://github.com/akwarii/asc-extension) for real-time inference |
+| [**asc**](https://github.com/akwarii/asc) | Atomic Structure Classification: a framework to develop and benchmark graph neural networks to classify atomistic structures, with an [OVITO extension](https://github.com/akwarii/asc-extension) for real-time inference |
 
 ### 📄 Selected papers
 
+- **Transformation-induced plasticity in CeO2-ZrO2 ceramics: Atomic-scale insights using a deep neural network potential**<br>
+  J.-Y. Zhang, **G. Huynh**, F.-Z. Dai, T. Albaret, D. Rodney — *Acta Mater.* (2025)  [DOI](https://doi.org/10.1016/j.actamat.2024.120661)
+- **Hidden Complexity in Stress‐Induced Phase Transformations of CeO2–ZrO2 Ceramics**<br>
+  **G. Huynh**, J.-Y. Zhang, T. Albaret, D. Rodney — *J. Amer. Ceram. Soc.* (2026)  [DOI](https://doi.org/10.1111/jace.71007)
 - **Structure and energetics of ceria-zirconia alloys: Insights from first principles in the ceria-poor region**<br>
-  **G. Huynh**, T. Albaret, D. Rodney — *Phys. Rev. Materials* (2025)<br>
-  [DOI](https://doi.org/10.1103/92ny-tm4b) · [Data](https://github.com/akwarii/dft-ceria-zirconia)
-- **[Paper title]**<br>
-  Authors — *Journal* (Year)<br>
-  [DOI](https://doi.org/XXXX)
+  **G. Huynh**, T. Albaret, D. Rodney — *Phys. Rev. Materials* (2025)  [DOI](https://doi.org/10.1103/92ny-tm4b)
 
-➡️ Full list on [Google Scholar](https://scholar.google.com/citations?user=XXXX)
+➡️ Full list on [Google Scholar](https://scholar.google.com/citations?user=YEqart0AAAAJ)
 
 ### 🤝 Open-source ecosystems I work with
 
-[GRACE](https://github.com/ICAMS/grace-tensorpotential) ·
 [TorchSim](https://github.com/TorchSim/torch-sim) ·
 [atomate2](https://github.com/materialsproject/atomate2) ·
-[MatterGen](https://github.com/microsoft/mattergen) ·
-[DeePMD-kit](https://github.com/deepmodeling/deepmd-kit) ·
-[SMACT](https://github.com/WMD-group/SMACT)
-
-### 🛠️ Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![ASE](https://img.shields.io/badge/ASE-atomistic-blue)
-![pymatgen](https://img.shields.io/badge/pymatgen-materials-green)
-![OVITO](https://img.shields.io/badge/OVITO-visualization-orange)
-![LAMMPS](https://img.shields.io/badge/LAMMPS-MD-lightgrey)
+[GRACE](https://github.com/ICAMS/grace-tensorpotential) ·
+[MACE](https://github.com/ACEsuit/mace) ·
+[pymatgen](https://github.com/materialsproject/pymatgen) ·
+[ASE](https://gitlab.com/ase/ase)
 
 ### 📊 GitHub stats
 
@@ -55,6 +48,6 @@ I work at the intersection of **materials science** and **machine learning**, co
 ### 📫 Get in touch
 
 - ✉️ Email: [gael.huynh@gmail.com](mailto:gael.huynh@gmail.com)
-- 🎓 Google Scholar: [profile](https://scholar.google.com/citations?user=YEqart0AAAAJ&hl=fr)
-- 🆔 ORCID: [0000-0000-0000-0000](https://orcid.org/0009-0003-1496-7685)
-- 💼 LinkedIn: [your-handle](https://linkedin.com/in/gael-huynh)
+- 🎓 Google Scholar: [Gaël Huynh](https://scholar.google.com/citations?user=YEqart0AAAAJ&hl)
+- 🆔 ORCID: [0009-0003-1496-7685](https://orcid.org/0009-0003-1496-7685)
+- 💼 LinkedIn: [gael-huynh](https://linkedin.com/in/gael-huynh)
